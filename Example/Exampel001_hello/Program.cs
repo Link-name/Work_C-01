@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello,word my"); 
+﻿Console.WriteLine(Hello_wold);
